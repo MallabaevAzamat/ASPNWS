@@ -1,0 +1,5 @@
+C:\Users\Азамат\Documents\SharpDevelop Projects\ASPNWS\ASPNWS\bin\ASPNWS.dll
+C:\Users\Азамат\Documents\SharpDevelop Projects\ASPNWS\ASPNWS\bin\ASPNWS.pdb
+C:\Users\Азамат\Documents\SharpDevelop Projects\ASPNWS\ASPNWS\obj\Debug\ASPNWS.csprojResolveAssemblyReference.cache
+C:\Users\Азамат\Documents\SharpDevelop Projects\ASPNWS\ASPNWS\obj\Debug\ASPNWS.dll
+C:\Users\Азамат\Documents\SharpDevelop Projects\ASPNWS\ASPNWS\obj\Debug\ASPNWS.pdb
